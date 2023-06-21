@@ -6,8 +6,8 @@
 #include <AsyncTCP.h>
 #include <ESPAsyncWebServer.h>
 // Replace with your network credentials
-const char* ssid = "INFINITUMB46E_2.4";
-const char* password = "4520297937";
+const char* ssid = "*****";
+const char* password = "*****";
 // Create AsyncWebServer object on port 80
 AsyncWebServer server(80);
 const char index_html[] PROGMEM = R"rawliteral(
